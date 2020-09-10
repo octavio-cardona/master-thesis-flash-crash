@@ -2,7 +2,7 @@
 
 This repository contains python codes and results of the master thesis "Identification and Modelling of Ultra Fast Extreme Events in Financial Markets: Mini Flash Crashes"
 
-The final document is incomplete and with mistakes yet. 
+The final document is not published here yet. 
 
 * The codes you can find here are:
 
